@@ -1,3 +1,6 @@
-This is a random assortment of different projects that are all completed. 
-They are in a bunch of different languages, like html, js, and python.
-This is basically just a free for all kinda where I go to when I am bored.
+# Python Scripts
+
+A collection of Python scripts, experiments, utilities, and personal projects built for learning and practical use.  
+Includes general-purpose tools, automation, and a dedicated `offensive/` directory for offensive security research and penetration testing scripts.  
+Scripts are organized by purpose and may vary in complexity and intended use.  
+**Security tools are for authorized testing and educational purposes only.**
